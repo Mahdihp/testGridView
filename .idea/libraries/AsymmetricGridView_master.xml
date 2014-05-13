@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="AsymmetricGridView-master">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/Compressed/AsymmetricGridView-master/AsymmetricGridView-master" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/Compressed/AsymmetricGridView-master/AsymmetricGridView-master/app/src/main/gen" />
+      <root url="file://$USER_HOME$/Downloads/Compressed/AsymmetricGridView-master/AsymmetricGridView-master/app/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/Compressed/AsymmetricGridView-master/AsymmetricGridView-master/library/src/main/gen" />
+      <root url="file://$USER_HOME$/Downloads/Compressed/AsymmetricGridView-master/AsymmetricGridView-master/library/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
